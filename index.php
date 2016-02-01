@@ -2,8 +2,8 @@
 echo ' 
 <!DOCTYPE html>
 <html>
-<img src="https://cloud.githubusercontent.com/assets/1903898/12707981/8845d76a-c868-11e5-8cdb-aca8b7d6a1c9.png" alt="first plot">
-
+<a href="plot1.html">plot1</a>
+<a href="plot2.html">plot2</a>
 </html>
 ';
 ?>
